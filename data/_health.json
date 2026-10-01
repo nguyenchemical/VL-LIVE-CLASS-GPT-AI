@@ -2,19 +2,19 @@
   "worker": "VLC-GPT-AI-R3.2",
   "repo": "nguyenchemical/VL-LIVE-CLASS-GPT-AI",
   "branch": "main",
-  "time": "2026-10-01T17:00:52.704Z",
+  "time": "2026-10-01T21:00:52.738Z",
   "ok": false,
   "status": "error",
   "cron": "0 1,5,9,13,17,21 * * *",
   "cronType": "SPECIAL",
-  "scheduledTime": "2026-10-01T17:00:52.000Z",
-  "gameType": "max3dpro",
+  "scheduledTime": "2026-10-01T21:00:52.000Z",
+  "gameType": "max3dplus",
   "vietlott": {
     "ok": false
   },
   "github": {
     "ok": false
   },
-  "error": "max3dpro: Vietlott HTTP 403",
+  "error": "max3dplus: Vietlott HTTP 403",
   "message": "Cron thất bại. Kiểm tra data/_health.json và Worker Logs."
 }
