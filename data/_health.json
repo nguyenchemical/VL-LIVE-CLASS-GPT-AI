@@ -2,12 +2,12 @@
   "worker": "VLC-GPT-AI-R3.2",
   "repo": "nguyenchemical/VL-LIVE-CLASS-GPT-AI",
   "branch": "main",
-  "time": "2026-10-03T05:00:10.757Z",
+  "time": "2026-10-03T05:01:23.557Z",
   "ok": false,
   "status": "error",
   "cron": "0 1,5,9,13,17,21 * * *",
   "cronType": "SPECIAL",
-  "scheduledTime": "2026-10-03T05:00:10.000Z",
+  "scheduledTime": "2026-10-03T05:00:50.000Z",
   "gameType": "power655",
   "vietlott": {
     "ok": false
