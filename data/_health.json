@@ -2,19 +2,19 @@
   "worker": "VLC-GPT-AI-R3.2",
   "repo": "nguyenchemical/VL-LIVE-CLASS-GPT-AI",
   "branch": "main",
-  "time": "2026-10-05T01:00:22.035Z",
+  "time": "2026-10-05T05:00:22.031Z",
   "ok": false,
   "status": "error",
   "cron": "0 1,5,9,13,17,21 * * *",
   "cronType": "SPECIAL",
-  "scheduledTime": "2026-10-05T01:00:21.000Z",
-  "gameType": "mega645",
+  "scheduledTime": "2026-10-05T05:00:21.000Z",
+  "gameType": "power655",
   "vietlott": {
     "ok": false
   },
   "github": {
     "ok": false
   },
-  "error": "mega645: Vietlott HTTP 403",
+  "error": "power655: Vietlott HTTP 403",
   "message": "Cron thất bại. Kiểm tra data/_health.json và Worker Logs."
 }
